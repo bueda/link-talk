@@ -1,0 +1,12 @@
+{
+  "name": "Bueda Link Talk",
+  "version": "1.0",
+  "description": "Quickly create a discussion about interesting links with your friends.",
+  "browser_action": {
+    "default_icon": "bueda.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://www.bueda.com/"
+  ]
+}
