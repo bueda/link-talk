@@ -7,6 +7,7 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "https://www.bueda.com/"
+    "https://www.bueda.com/",
+    "tabs"
   ]
 }
