@@ -1,6 +1,6 @@
 {
   "name": "Bueda Link Talk",
-  "version": "1.0.1",
+  "version": "1.1",
   "description": "Quickly create a discussion about interesting links with your friends.",
   "browser_action": {
     "default_icon": "bueda.png",
